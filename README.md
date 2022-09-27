@@ -1,10 +1,10 @@
-# TSS Tech Department Site
+# Product: TSS Tech Department Site
 
 ## User Story
 "As a student, I want a simple intro to the tech classes so that I can see if I would be interested in taking the classes or not."
 
 ## Feature Backlog (by Priority)
-- [ ] [#1](https://github.com/The-Salisbury-School/mad-webdev/issues/1)
+- [ ] ["Path to Success" Page](https://github.com/The-Salisbury-School/mad-webdev/issues/1)
 - [ ] "Ongoing Sprint" for each class.
     - [ ] Shows countdown until Presentation Day.
     - [ ] Shows all relevant  information.
@@ -17,5 +17,4 @@
     - [ ] List of projects available for all classes to look at and choose from.
     - [ ] Sortable and filterable.
 
-This site was built using [GitHub Pages](https://pages.github.com/)
 For help with GitHub Markdown, use [this guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
